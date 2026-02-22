@@ -1,7 +1,7 @@
-# 🚀 CodeChef Kotlin Solutions
+# 🚀 CodeChef Java Solutions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Kotlin-purple?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Platform-CodeChef-brown?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Competitive%20Programming-blue?style=for-the-badge" />
 </p>
@@ -10,12 +10,12 @@
 
 ## 🧠 About This Repository
 
-This repository contains my accepted solutions to problems from **CodeChef**, written in **Kotlin**.
+This repository contains my accepted solutions to problems from **CodeChef**, written in **Java**.
 
 It serves as:
 
 * 📚 A structured archive of solved problems
-* 🧩 A reference for Kotlin-based competitive programming
+* 🧩 A reference for Java-based competitive programming
 * 📈 A progress tracker for improving algorithmic skills
 
 ---
@@ -28,13 +28,12 @@ Problems are solved from **CodeChef** — one of the most popular competitive pr
 
 ## 🛠 Tech Stack
 
-* 💜 **Kotlin**
+* 🔴 **Java**
 * ⚡ Fast I/O techniques
 * 🧮 Algorithmic problem solving
 * 📦 Standard library optimizations
 
 ---
-
 
 ## 🏆 Problem Categories Covered
 
@@ -52,19 +51,20 @@ Problems are solved from **CodeChef** — one of the most popular competitive pr
 
 ## ▶️ Running the Solutions
 
-### Using Kotlin CLI
+### Using Java CLI
 
 ```bash
-kotlinc filename.kt -include-runtime -d solution.jar
-java -jar solution.jar
-```
+javac Filename.java
+java Filename
+````
 
+---
 
 ## 📊 Competitive Programming Goals
 
 * Improve problem-solving speed
 * Strengthen algorithmic thinking
-* Master Kotlin for CP
+* Master Java for CP
 * Participate in CodeChef contests regularly
 
 ---
@@ -74,9 +74,4 @@ java -jar solution.jar
 You can view my competitive programming progress here:
 
 👉 [https://www.codechef.com/users/herd_bees_64](https://www.codechef.com/users/herd_bees_64)
-
----
-
-
-
 
