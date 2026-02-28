@@ -5,6 +5,7 @@ public class AIRHOCKEY {
     public static void main(String ... args) {
 
         try {
+
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             PrintWriter pr = new PrintWriter(new BufferedOutputStream(System.out));
             long t = Long.parseLong(br.readLine());
