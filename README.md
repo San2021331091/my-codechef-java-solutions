@@ -74,4 +74,5 @@ java Filename
 You can view my competitive programming progress here:
 
 👉 [https://www.codechef.com/users/herd_bees_64](https://www.codechef.com/users/herd_bees_64)
+## Problems can be found on [Codechef Problems](https://www.codechef.com/problems/{problem_name})
 
